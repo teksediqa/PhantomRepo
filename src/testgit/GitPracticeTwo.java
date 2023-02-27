@@ -1,6 +1,10 @@
 package testgit;
 
-public class GitPracticeTwo {
+public class GitPracticeTwo { 
+	
+	
+	
+	
 
 	public static void main(String[] args) {
 		int a  = 12; 
@@ -9,7 +13,5 @@ public class GitPracticeTwo {
 
 	} 
 	
-	public sum (int a , int b){ 
-		return sum;
 
 }
