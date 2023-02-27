@@ -8,5 +8,8 @@ public class GitPracticeTwo {
 		System.out.println(a*b);
 
 	} 
+	
+	public sum (int a , int b){ 
+		return sum;
 
 }
