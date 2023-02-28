@@ -6,7 +6,7 @@ public class GitHibPracticeThree {
 		return a*b;
 	} 
 	
-	public int test(int a, int b){ 
+	public int test1(int a, int b){ 
 		return a+b; 
 		
 	}
